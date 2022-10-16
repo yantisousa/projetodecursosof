@@ -1,0 +1,428 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&family=Roboto&display=swap');
+
+body{
+    font-family: "Poppins";
+    padding: 0%;
+    margin: 0%;
+}
+.all {
+   
+    background-color: #FCFCFC
+    ;
+    height: 100px;
+}
+.logo {
+   display: inline;
+    font-size: 30px;
+    margin-left: 350px;
+    position: relative;
+    top: 27%;
+    width: 100px;
+}
+a {
+    text-decoration: none;
+}
+.link  {
+    display: inline;
+    position: relative;
+    top: 27%;
+    margin-left: 460px;
+    font-size: 23px;
+    
+}
+.link a {
+    margin-left: 50px;
+    color: black ;
+    
+}
+.link a:hover {
+    border-radius: 30px;
+    
+    background-color: #f59121; 
+        color: aliceblue;
+}
+.capa-1 img {
+    
+    width: 600px;
+    position: relative;
+    left: 880px;
+    top: 120px;
+   
+    
+}
+.capa-1 a {
+    display: block;
+}
+
+.capa-1 {
+    
+}
+.sobre {
+    position: relative;
+    left: 390px;
+    bottom: 350px;
+    width: 70%;
+}
+
+.sobre h4 {
+    width: 200px;
+}
+.sobre a {
+    border: 0px solid black;
+    width: 250px;
+    height: 50px;
+    color: black;
+    background-color: #f59121;
+    border-radius: 30px;
+    text-align: center;
+    
+}
+.sobre a h3{
+    position: relative;
+    top: 9px;
+}
+.sobre a:hover {
+    background-color: #26bdcf;
+}
+.logo h6 {
+    display: inline;
+    color: #26bdcf;
+}
+.desaparecer {
+    
+    
+    position: relative;
+   width: 400px;
+   bottom: 100px;
+   display: ;
+   height: 100vh;
+   float: right;
+    background-color: #FCFCFC;
+   transition: width 0.7s;
+   animation-duration: 1s;
+    
+}
+.desaparecer li {
+    list-style: none;
+    margin-bottom: 60px;
+    margin-left: 0px;
+}
+
+.desaparecer a {
+    display: block;
+ 
+    position: relative;
+    right: 40px;
+    bottom: 53px;
+    top: px;
+    width: 400px;
+    height: 90px;
+    text-align: center;
+    color: black;
+}
+.desaparecer h1 {
+    text-align: center;
+    
+}
+.desaparecer a:hover {
+    background-color: #26bdcf;
+}
+.desaparecer h4 {
+    position: relative;
+    top: 32px;
+}
+.logo img {
+    height: 30px;
+}
+.link img {
+    width: 30px;
+    border: 0px solid black;
+}
+.link button {
+    border: 0px;
+    background-color: #FCFCFC;
+}
+.material-symbols-outlined {
+    cursor: pointer;
+    position: relative;
+    top: 6px;
+    left: 30px;
+    bottom: 0px;
+}
+.alunos {
+    top: 2px;
+    border-radius: 10px;
+    position: relative;
+    left: 330px;
+    font-size: 30px;
+    width: 400px;
+    height: 200px;
+    border: 0px solid black;
+    text-align: center;
+    transition: box-shadow 1s cubic-bezier(0.075, 0.82, 0.165, 1) 0s, transform 1s cubic-bezier(0.075, 0.82, 0.165, 1) 0s;
+}
+
+.alunos:hover {
+    box-shadow: 0 0 15px #808080	;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+
+}
+.alunos h1 {
+    position: relative;
+    top: 35px;
+}
+.alunos2 {
+   
+    position: relative;
+    left: 750px;
+    bottom: 238px;
+    font-size: 30px;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    transition: box-shadow 1s cubic-bezier(0.075, 0.82, 0.165, 1) 0s, transform 1s cubic-bezier(0.075, 0.82, 0.165, 1) 0s;
+}
+
+.alunos2:hover {
+    box-shadow: 0 0 15px #808080	;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+
+}
+.alunos2 h1 {
+    position: relative;
+    top: 35px;
+    
+}
+.bg-cursos1 {
+    height: 300px;
+    position: relative;
+    bottom: 400px;
+}
+.alunos3 {
+   
+    position: relative;
+    left: 1150px;
+    bottom: 473px;
+    font-size: 30px;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    transition: box-shadow 1s cubic-bezier(0.075, 0.82, 0.165, 1) 0s, transform 1s cubic-bezier(0.075, 0.82, 0.165, 1) 0s;
+}
+
+.alunos3:hover {
+    box-shadow: 0 0 15px #808080	;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+
+}
+.alunos3 h1 {
+    position: relative;
+    top: 35px;
+}
+.img-2{
+    width: 1000px;
+   margin-left: 30%;
+}
+.img-2 img {
+    width: 600px;
+    display: inline;
+}
+.img-2 h1{
+    font-size: 40px;
+    width: 100px;
+    display: inline;
+    position: relative;
+    bottom: 100px;
+}
+#titulo-2{
+    position: relative;
+    left: 670px;
+    font-size: 40px;
+    width: 200px;
+    bottom: 450px;
+
+}
+.bg-cursos1{
+ 
+}
+.button-3 {
+    width: 200px;
+}
+.button-3 button{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: #1c0051;
+    color: white;
+    cursor: pointer;
+}
+.button-3 button:hover {
+    background-color:  #2727ff;
+}
+.section-3 {
+    height: 100vh;
+}
+.front h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.mov-all2 {
+    display: flex;
+    margin-left: 31.5%;
+    position: relative;
+    right: 150px;
+    		
+}
+.ling1 {
+    display: inline;
+    
+    position: relative;
+    right: 100px;
+    text-align: center;
+    
+}
+.ling2 {
+    display: inline;
+    margin-right: 10px;
+    position: relative;
+    right: 90px;
+    text-align: center;
+}
+.ling3 {
+    display: inline;
+    position: relative;
+    right: 100px;
+    text-align: center;
+}
+.ling1 h2{
+    width: 300px;
+    color: #A9A9A9
+    
+}
+.ling2 h2{
+    width: 300px;
+    color: #A9A9A9
+}
+.ling3 h2{
+    width: 300px;
+    color: #A9A9A9
+}
+.mov-all2 img {
+    width: 130px;
+}
+.desaparecer hr {
+position: relative;
+bottom: 31px;
+}
+.desaparecer img {
+    position: relative;
+    bottom: 53px;
+    left: 40px;
+    width: 20px;
+    cursor: pointer;
+}
+.ling1 h1 {
+    font-weight: bold;
+}
+.mov-all3 {
+    display: flex;
+    margin-left: 31.5%;
+    position: relative;
+    right: 150px;
+    
+}
+.ling4 {
+    display: inline;
+    
+    position: relative;
+    right: 100px;
+    text-align: center;
+    
+}
+.ling5 {
+    display: inline;
+    margin-right: 10px;
+    position: relative;
+    right: 90px;
+    text-align: center;
+}
+.ling6 {
+    display: inline;
+    position: relative;
+    right: 100px;
+    text-align: center;
+}
+.ling4 h2{
+    width: 300px;
+    color: #A9A9A9
+    
+}
+.ling5 h2{
+    width: 300px;
+    color: #A9A9A9
+}
+.ling6 h2{
+    width: 300px;
+    color: #A9A9A9
+}
+.mover-tudo { 
+    background-color: #FCFCFC;
+    width: 1200px;
+    height: 1140px;
+    margin: auto;
+    border-radius: 10px;
+}
+.mover-tudo1 { 
+    background-color: #FCFCFC;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    border-radius: 10px;
+}
+.front img {
+    width: 50px;
+}
+.front {
+    position: relative;
+    right: 15px;
+}
+.inscrit-1 {
+    background-color:#1c0051 ;
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    border: 0px;
+    position: relative;
+    left: 40%;
+    top: 20px;
+}
+.inscrit-1:hover {
+    background-color:  #2727ff;
+}
+.bg-4 {
+    background-color: #1c0051;
+    height: 400px   ;
+}
+.img-4 img {
+    width: 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 45%;
+    top: 120px;
+}
+.roda-pe {
+    color: white;
+    position: relative;
+    top: 160px;
+    left: 44%;
+}
